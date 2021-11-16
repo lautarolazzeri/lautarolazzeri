@@ -1,4 +1,4 @@
-## Hey 👋, I'm ✨ [Lautaro Lazzeri](http://lautarolazzeri.tk)✨
+## Hey 👋, I'm ✨ [Lautaro Lazzeri](http://lautarolazzeri.tk) ✨
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lautarolazzeri)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://lautarolazzeri.tk)
