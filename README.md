@@ -1,6 +1,6 @@
 ## Hey 👋, I'm ✨ [Lautaro Lazzeri](http://lautarolazzeri.tk) ✨
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lautarolazzeri)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-lazzeri/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://lautarolazzeri.tk)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lautarolazzeri/)
 [![Whatsapp Badge](https://img.shields.io/badge/Text%20Me-Whatsapp-brightgreen)](https://api.whatsapp.com/send?phone=541159333523)
