@@ -15,7 +15,6 @@ I'm Lautaro Lazzeri, a coder from Buenos Aires, Argentina, i go to a technical s
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lautarolazzeri).
 - 💬 &nbsp; Ask me about anything [here](https://api.whatsapp.com/send?phone=541159333523)! I am happy to help.
-- ⚡ &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: lautyylazzerii@gmail.com.
 
 ### My Absolute Favorites:
