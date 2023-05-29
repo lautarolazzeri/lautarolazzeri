@@ -7,12 +7,12 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm Lautaro Lazzeri, a coder from Buenos Aires, Argentina, i go to a technical school where i study IT. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning 🤓 Node.JS 🤓
+I'm Lautaro Lazzeri, a programmer from Buenos Aires, Argentina, I went to a technical school where I studied computer science and now I'm studying Systems Engineering. I am a passionate learner who is always willing to learn and work on myself💡. I love exploring new technologies and taking advantage of them to solve real life problems ✨.
 
 ### Talking about Personal Stuffs:
 
-- 🔭 &nbsp;  I’m currently working with HTML, CSS, JS, <br /> React, Wordpress, SQL, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🔭 &nbsp;  I’m currently working with Flutter / DartHTML <br /> CSS, JS, React, etc.
+- 🚀 &nbsp; Front end developer mobile - web.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lautarolazzeri).
 - 💬 &nbsp; Ask me about anything [here](https://api.whatsapp.com/send?phone=541159333523)! I am happy to help.
 - 📫 &nbsp; How to reach me: lautyylazzerii@gmail.com.
